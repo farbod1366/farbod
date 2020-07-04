@@ -59,17 +59,15 @@ img{
 	line-height: 2;
 	display: inline-block;
 	margin-left: 20px;
-	vertical-align: top;
-	position: static;
 }
 .middle span{
 	color: black;
 	margin-left: 75px;
 	margin-right: 25px;
 	position: absolute;
-	line-height: 2;
 	text-align: justify;
-	display: inline;
+	display: inline-block;
+	vertical-align: top;
 }
 section p{
 	color: blue;
