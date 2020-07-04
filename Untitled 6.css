@@ -68,6 +68,7 @@ img{
 	vertical-align: top;
 	position: absolute;
 	line-height: 2;
+	text-align: justify;
 }
 section p{
 	color: blue;
