@@ -45,12 +45,14 @@ img{
 	line-height: 4;
 	display: inline;
 	margin-left: 50px;
+	display: inline-block;
 }
 .img span{
 	color: black;
 	display: inline-block;
 	margin-left: 30px;
 	vertical-align: top;
+	display: inline-block;
 }
 .middle p{
 	color: blue;
