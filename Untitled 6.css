@@ -1,0 +1,84 @@
+#header{
+	background-color: lightgrey;
+	text-align: center;
+}
+.container{
+background-color: lightgray
+}
+body{
+background-color: lightgoldenrodyellow;
+}
+#tit{
+	color: blue;
+	border: solid 2px #ADD8E6;
+	padding:10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	line-height: 400%;
+	font-size:20px;
+}
+.container p{
+	color: blue;
+	line-height: 3;
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: top;
+}
+.container span{
+	color: black;
+	display: inline-block;
+	margin-left: 75px;
+	vertical-align: top;
+}
+img{
+	float:left;
+	transform:rotate(0deg);
+	border-radius: 50% 50% 0 50%;
+	background-color: lightBlue;
+	padding:10px;
+	margin: 10px 5px 0 5px;
+	height: 200px;
+	width:150px;
+	display: inline-block;
+}
+.img li{
+	color: blue;
+	line-height: 4;
+	display: inline;
+	margin-left: 50px;
+}
+.img span{
+	color: black;
+	display: inline-block;
+	margin-left: 30px;
+	vertical-align: top;
+}
+.middle p{
+	color: blue;
+	line-height: 2;
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: top;
+}
+.middle span{
+	color: black;
+	display: inline-block;
+	margin-left: 75px;
+	vertical-align: top;
+	position: absolute;
+	line-height: 2;
+}
+section p{
+	color: blue;
+	line-height: 6;
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: top;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;    
+}
