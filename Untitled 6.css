@@ -69,6 +69,7 @@ img{
 	position: absolute;
 	line-height: 2;
 	text-align: justify;
+	display: inline;
 }
 section p{
 	color: blue;
