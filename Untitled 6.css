@@ -60,6 +60,7 @@ img{
 	display: inline-block;
 	margin-left: 20px;
 	vertical-align: top;
+	position: inherit;
 }
 .middle span{
 	color: black;
